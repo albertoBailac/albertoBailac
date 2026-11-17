@@ -27,7 +27,7 @@ My focus includes:
 
 ### 📱 Featured project
 
-**Mobile AI Engineering Lab**
+[**Mobile AI Engineering Lab**](https://github.com/albertoBailac/mobile-ai-engineering-lab)
 
 A public learning and experimentation workspace combining native mobile engineering with AI-assisted development.
 
